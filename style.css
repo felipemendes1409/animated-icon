@@ -14,7 +14,7 @@ section {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: radial-gradient(#f00, rgba(0, 0, 0, 0.5)), url(wall.jpg);
+  background: radial-gradient(#f00, rgba(0, 0, 0, 0.5)), url(parede.jpg);
   background-blend-mode: multiply;
   animation: animateBgColor 5s linear infinite;
 }
